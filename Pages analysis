@@ -1,0 +1,16 @@
+Excel file contains blog pages numbers (for 3 months) that are taken from our report. Please answer the following questions based on the numbers:
+1.	Which three blog pages are most popular among users? In addition, what are the top 3 traffic sources?
+2.	Analyze the following blog post's performance (describe the numbers and provide input): “Page 100”
+3.	Please comment on the correlation between countries with high mobile user percentages and exit rates? Demonstrate using a chart showing 10 different countries.
+
+Metrics:
+-	Sessions - A session is the period time a user is actively engaged with our website.
+-	Users - Users who have initiated at least one session during the date range.
+As an example, if I entered the page three times, from the same device, during the reporting period, I would see-
+Sessions:3
+Users:1
+-	%Exit - (number of exits) / (number of pageviews) for the page. It indicates how often users exit the website from that page.
+-	Entrances - Entrances is the number of times visitors entered the site through a specific page.
+-	Source / Medium - Source shows where users were before seeing your content, such as a search engine or another website. Medium shows how users arrived at your content, such as "organic" for unpaid search traffic and "(none)" for direct traffic.
+
+
